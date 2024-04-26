@@ -1,6 +1,3 @@
-//TODO: 
-//inorder
-//cheap insert, remove?
 
 
 public class TreeNode<T> {
